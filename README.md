@@ -28,7 +28,7 @@ A simple file transfer client / server based on raw socket. Using multi-threadin
 
 ## Usage
 
-Edit the bound IP address and port number in `common.h` and the use cmake to compiler.
+Edit the bound IP address and port number in `common.h` and the use cmake to compile.
 
 
 
